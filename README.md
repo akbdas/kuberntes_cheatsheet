@@ -3,7 +3,7 @@
 
 **Auto complete kubectl**
 ```
-aliask=kubectl
+alias k=kubectl
 complete -F __start_kubectl k
 ```
 __Generate yaml tips:__
